@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    tst_norme                                          :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: cbruno <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/11/18 16:53:33 by cbruno            #+#    #+#              #
+#    Updated: 2019/11/19 11:06:49 by cbruno           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+norminette editor/src/
+norminette editor/include/
+
+norminette engine/src/
+norminette engine/include/
+
+norminette includes/libft/*.c
+norminette includes/libft/*.h
